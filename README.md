@@ -1,5 +1,5 @@
 ---
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img align="right" alt="GIF" src="https://github.com/Cybercalf/Cybercalf/blob/master/schnuffel.jpg" />
 
 ### 👋 I'm Cybercalf
 
@@ -29,7 +29,7 @@
 - [Twitter(with no twit on it)](https://twitter.com/calf000001)
 - [Bilibili(with a lot GD videos collected)](https://space.bilibili.com/429533066)
 
-> ***If you want to say hi, I'll be happy to meet you more!😊***
+> ***If you want to say hi, I'll be happy to meet you more!😊***  
 ⭐️ From [Cybercalf](https://github.com/Cybercalf)
 
 
