@@ -1,5 +1,5 @@
 ---
-<img align="right" alt="schnuffel" src="https://github.com/Cybercalf/Cybercalf/blob/master/schnuffel.jpg" />
+<img align="right" alt="schnuffel" scale="%50" src="https://github.com/Cybercalf/Cybercalf/blob/master/schnuffel.jpg" />
 
 ### 👋 I'm Cybercalf
 
