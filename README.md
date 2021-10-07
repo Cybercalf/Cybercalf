@@ -1,4 +1,37 @@
-### Hi there 👋
+###  👋
+
+---
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+
+### I'm Cybercalf
+
+- A Software Engineering Undergraduate Student.
+- 🌱 Currently studying in Sichuan, China  
+- 🤔 I’m looking for help with Machine Learning(studying madly nowadays)
+
+### 🛠 技术栈 | Tech Stack
+
+- 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
+
+- 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
+- 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+
+### 开源项目
+- [A single console music player(the only repo I'm satisfied with so far)](https://github.com/Cybercalf/HwcPlayer-CMake)  
+- [An attempt in the field of IQA(can be the second repo I'll be satisfied with)](https://github.com/Cybercalf/GAN-NR-IQA)  
+
+### 关于我
+- [Twitter(with no twit on it)](https://twitter.com/calf000001)
+- [Bilibili(with a lot GD videos collected)](https://space.bilibili.com/429533066)
+
+> ***If you want to say hi, I'll be happy to meet you more!😊***
+⭐️ From [Cybercalf](https://github.com/Cybercalf)
+
+
 
 <!--
 **Cybercalf/Cybercalf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
