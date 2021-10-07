@@ -1,9 +1,7 @@
-###  👋
-
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-### I'm Cybercalf
+### 👋 I'm Cybercalf
 
 - A Software Engineering Undergraduate Student.
 - 🌱 Currently studying in Sichuan, China  
