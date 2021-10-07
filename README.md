@@ -1,5 +1,14 @@
 ---
-<img align="right" alt="schnuffel" scale="%50" src="https://github.com/Cybercalf/Cybercalf/blob/master/schnuffel.jpg" />
+<style>
+  img {
+    padding: 0;
+    margin: 0;
+    transform: scale(0.5);
+  }
+</style>
+<body>
+  <img align="right" alt="schnuffel" src="https://github.com/Cybercalf/Cybercalf/blob/master/schnuffel.jpg">
+</body>
 
 ### 👋 I'm Cybercalf
 
@@ -7,7 +16,7 @@
 - 🌱 Currently studying in Sichuan, China  
 - 🤔 Looking for help with Machine Learning & Deep Learning
 
-### 🛠 技术栈 | Tech Stack
+### 🛠 Tech Stack
 
 - 💻 &#160; ![C/C++](https://img.shields.io/badge/-C++-black?logo=cplusplus&logoColor=red)
 ![Python](https://img.shields.io/badge/-python-blue?logo=python&logoColor=yellow)
@@ -20,12 +29,13 @@
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+![VS Code](https://img.shields.io/badge/-VS%20Code-blue?logo=visualstudiocode&logoColor=white)
 
-### 开源项目
+### Open Source Repositories
 - [A single console music player(the only repo I'm satisfied with so far)](https://github.com/Cybercalf/HwcPlayer-CMake)  
 - [An attempt in the field of IQA(can be the second repo I'll be satisfied with)](https://github.com/Cybercalf/GAN-NR-IQA)  
 
-### 关于我
+### About Me
 - [Twitter(with no twit on it)](https://twitter.com/calf000001)
 - [Bilibili(with a lot GD videos collected)](https://space.bilibili.com/429533066)
 
