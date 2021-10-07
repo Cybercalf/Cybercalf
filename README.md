@@ -1,16 +1,5 @@
 ---
-<html>
-  <style>
-    img {
-      padding: 0;
-      margin: 0;
-      transform: scale(0.5);
-    }
-  </style>
-  <body>
-    <img align="right" alt="schnuffel" src="https://github.com/Cybercalf/Cybercalf/blob/master/schnuffel.jpg">
-  </body>
-</html>
+<img align="right" alt="schnuffel" height="320" width="260" src="https://github.com/Cybercalf/Cybercalf/blob/master/schnuffel.jpg">
 
 ### 👋 I'm Cybercalf
 
