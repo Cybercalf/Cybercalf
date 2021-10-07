@@ -3,9 +3,11 @@
 
 ### 👋 I'm Cybercalf
 
-- A Software Engineering Undergraduate Student.
+- A Software Engineering Undergraduate Student
 - 🌱 Currently studying in Sichuan, China  
 - 🤔 Looking for help with Machine Learning & Deep Learning
+- ⚡ Exposed to many programming languages
+- ✨ ~~Trying not to be addicted to music video games~~  
 
 ### 🛠 Tech Stack
 
@@ -33,7 +35,7 @@
 > ***If you want to say hi, I'll be happy to meet you more!😊***  
 ⭐️ From [Cybercalf](https://github.com/Cybercalf)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cybercalf&theme=buefy&show_icons=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cybercalf&theme=buefy&hide=stars,issues&show_icons=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
