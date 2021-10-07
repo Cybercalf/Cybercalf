@@ -33,6 +33,7 @@
 > ***If you want to say hi, I'll be happy to meet you more!😊***  
 ⭐️ From [Cybercalf](https://github.com/Cybercalf)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cybercalf&theme=buefy&show_icons=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
