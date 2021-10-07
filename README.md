@@ -1,11 +1,11 @@
 ---
-<img align="right" alt="GIF" src="https://github.com/Cybercalf/Cybercalf/blob/master/schnuffel.jpg" />
+<img align="right" alt="schnuffel" src="https://github.com/Cybercalf/Cybercalf/blob/master/schnuffel.jpg" />
 
 ### 👋 I'm Cybercalf
 
 - A Software Engineering Undergraduate Student.
 - 🌱 Currently studying in Sichuan, China  
-- 🤔 I’m looking for help with Machine Learning(studying madly nowadays)
+- 🤔 Looking for help with Machine Learning & Deep Learning
 
 ### 🛠 技术栈 | Tech Stack
 
