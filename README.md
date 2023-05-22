@@ -18,7 +18,7 @@
 ![Django](https://img.shields.io/badge/-Django-333333?logo=django)
 ![Spring](https://img.shields.io/badge/-Spring-333333?logo=spring)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-333333?logo=anaconda)
-![Rust](https://img.shields.io/badge/-rust-333333?logo=rust)
+![Rust](https://img.shields.io/badge/-Rust-333333?logo=rust)
 
 - 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
