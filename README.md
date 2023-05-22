@@ -11,17 +11,17 @@
 
 ### 🛠 Tech Stack
 
-- 💻 &#160; 
 <!--![C/C++](https://img.shields.io/badge/-C++-black?logo=cplusplus&logoColor=red)-->
-![Vue.js](https://img.shields.io/badge/-Vue-333333?logo=vue.js)
-![Flask](https://img.shields.io/badge/-Flask-red?logo=flask)
-![Django](https://img.shields.io/badge/-Django-blue?logo=django)
+
+- 💻 &#160; ![Vue.js](https://img.shields.io/badge/-Vue-333333?logo=vue.js)
+![Flask](https://img.shields.io/badge/-Flask-333333?logo=flask)
+![Django](https://img.shields.io/badge/-Django-333333?logo=django)
 ![Spring](https://img.shields.io/badge/-Spring-333333?logo=spring)
-![Anaconda](https://img.shields.io/badge/-Anaconda-blue?logo=anaconda)
-![Rust](https://img.shields.io/badge/-rust-yellowgreen?logo=rust)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
+![Anaconda](https://img.shields.io/badge/-Anaconda-333333?logo=anaconda)
+![Rust](https://img.shields.io/badge/-rust-333333?logo=rust)
 
 - 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
 
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
