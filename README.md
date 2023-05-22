@@ -7,7 +7,7 @@
 - 🌱 Currently studying in Sichuan, China  
 - 🤔 Looking for help with Machine Learning & Deep Learning
 - ⚡ Exposed to many programming languages
-- ✨ ~~Trying not to be addicted to music video games~~  
+- ✨ ~~Trying not to be addicted to rhythm games~~  
 
 ### 🛠 Tech Stack
 
