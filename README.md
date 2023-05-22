@@ -11,9 +11,13 @@
 
 ### 🛠 Tech Stack
 
-- 💻 &#160; ![C/C++](https://img.shields.io/badge/-C++-black?logo=cplusplus&logoColor=red)
+- 💻 &#160; 
+<!--![C/C++](https://img.shields.io/badge/-C++-black?logo=cplusplus&logoColor=red)-->
+![Vue.js](https://img.shields.io/badge/-Vue-333333?logo=vue.js)
+![Flask](https://img.shields.io/badge/-Flask-red?logo=flask)
+![Django](https://img.shields.io/badge/-Django-blue?logo=django)
+![Spring](https://img.shields.io/badge/-Spring-333333?logo=spring)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-blue?logo=anaconda)
-![Spring Boot](https://img.shields.io/badge/-springboot-333333?logo=springboot)
 ![Rust](https://img.shields.io/badge/-rust-yellowgreen?logo=rust)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 
