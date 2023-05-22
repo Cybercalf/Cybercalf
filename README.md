@@ -12,9 +12,9 @@
 ### 🛠 Tech Stack
 
 - 💻 &#160; ![C/C++](https://img.shields.io/badge/-C++-black?logo=cplusplus&logoColor=red)
-![Python](https://img.shields.io/badge/-python-blue?logo=python&logoColor=yellow)
+![Anaconda](https://img.shields.io/badge/-Anaconda-blue?logo=anaconda)
+![Spring Boot](https://img.shields.io/badge/-springboot-333333?logo=springboot)
 ![Rust](https://img.shields.io/badge/-rust-yellowgreen?logo=rust)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=orange)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
 
 - 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -26,12 +26,11 @@
 
 ### Open Source Repositories
 - [A single console music player(the only repo I'm satisfied with so far)](https://github.com/Cybercalf/HwcPlayer-CMake)  
-- [An attempt in the field of IQA(can be the second repo I'll be satisfied with)](https://github.com/Cybercalf/GAN-NR-IQA)  
 
 ### About Me
 - Contect me via email: [cybercalf@163.com](mailto:cybercalf@163.com) or [calf00001@gmail.com](mailto:calf00001@gmail.com)
-- [Twitter(with no twit on it)](https://twitter.com/calf00001)  
-- [Bilibili(with a lot GD videos collected)](https://space.bilibili.com/429533066)  
+- [Twitter](https://twitter.com/calf00001)
+- [Bilibili](https://space.bilibili.com/429533066)
 
 > ***If you want to say hi, I'll be happy to meet you more!😊***  
 
