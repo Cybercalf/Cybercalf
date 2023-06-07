@@ -36,7 +36,7 @@
 - [Twitter](https://twitter.com/calf00001)
 - [Bilibili](https://space.bilibili.com/429533066)
 
-> ***If you want to say hi, I'll be happy to meet you more!😊***  
+> ***If you want to say hi, I'll be happy to meet you more!*** 😊
 
 ⭐️ From [Cybercalf](https://github.com/Cybercalf)
 
