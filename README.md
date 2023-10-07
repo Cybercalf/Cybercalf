@@ -3,7 +3,7 @@
 
 ### 👋 I'm Cybercalf
 
-- A Software Engineering Undergraduate Student
+- A Software Engineering Undergraduate
 - 🌱 Currently studying in Sichuan, China  
 - 🤔 Looking for help with Machine Learning & Deep Learning
 - ⚡ Exposed to many programming languages
