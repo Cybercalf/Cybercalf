@@ -29,6 +29,7 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-blue?logo=visualstudiocode&logoColor=white)
 
 ### Open Source Repositories
+- [A demo for reinforcement learning](https://github.com/Cybercalf/DQN-FlappyBird-For-Python3) forked from [xmfbit/DQN-FlappyBird](https://github.com/xmfbit/DQN-FlappyBird) that work under python3
 - [A single console music player(the only repo I'm satisfied with so far)](https://github.com/Cybercalf/HwcPlayer-CMake)  
 
 ### About Me
