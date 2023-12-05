@@ -5,7 +5,7 @@
 
 - A Software Engineering Undergraduate
 - 🌱 Currently studying in Sichuan, China  
-- 🤔 Looking for help with Machine Learning & Deep Learning
+- 🤔 Looking for help with Machine Learning & Reinforcement Learning
 - ⚡ Exposed to many programming languages
 - ✨ ~~Trying not to be addicted to rhythm games~~  
 
