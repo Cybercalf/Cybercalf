@@ -9,6 +9,8 @@
 - ⚡ Exposed to many programming languages
 - ✨ ~~Trying not to be addicted to rhythm games~~  
 
+(Source of my avatar: [Schnuffel](https://en.wikipedia.org/wiki/Schnuffel))
+
 ### 🛠 Tech Stack
 
 <!--![C/C++](https://img.shields.io/badge/-C++-black?logo=cplusplus&logoColor=red)-->
