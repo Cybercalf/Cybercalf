@@ -17,7 +17,6 @@
 
 - 💻 &#160; ![Vue.js](https://img.shields.io/badge/-Vue-333333?logo=vue.js)
 ![Flask](https://img.shields.io/badge/-Flask-333333?logo=flask)
-![Django](https://img.shields.io/badge/-Django-333333?logo=django)
 ![Spring](https://img.shields.io/badge/-Spring-333333?logo=spring)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-333333?logo=anaconda)
 ![Rust](https://img.shields.io/badge/-Rust-333333?logo=rust)
