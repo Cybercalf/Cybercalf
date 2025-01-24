@@ -10,6 +10,7 @@
 - ✨ ~~Trying not to be addicted to rhythm games~~  
 
 Blog(under construction): [https://cybercalf.github.io/blog/](https://cybercalf.github.io/blog/)
+
 Source of my avatar: [Schnuffel](https://en.wikipedia.org/wiki/Schnuffel)
 
 ### 🛠 Tech Stack
