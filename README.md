@@ -3,13 +3,14 @@
 
 ### 👋 I'm Cybercalf
 
-- A Software Engineering Undergraduate
+- A computer science postgraduate
 - 🌱 Currently studying in Sichuan, China  
 - 🤔 Looking for help with Machine Learning & Reinforcement Learning
 - ⚡ Exposed to many programming languages
 - ✨ ~~Trying not to be addicted to rhythm games~~  
 
-(Source of my avatar: [Schnuffel](https://en.wikipedia.org/wiki/Schnuffel))
+Blog(under construction): [https://cybercalf.github.io/blog/](https://cybercalf.github.io/blog/)
+Source of my avatar: [Schnuffel](https://en.wikipedia.org/wiki/Schnuffel)
 
 ### 🛠 Tech Stack
 
