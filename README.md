@@ -39,6 +39,7 @@ Source of my avatar: [Schnuffel](https://en.wikipedia.org/wiki/Schnuffel)
 - Contect me via email: [cybercalf@163.com](mailto:cybercalf@163.com) or [calf00001@gmail.com](mailto:calf00001@gmail.com)
 - [Twitter](https://twitter.com/calf00001)
 - [Bilibili](https://space.bilibili.com/429533066)
+- [ORCID](https://orcid.org/0000-0001-8304-9464) <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width: 1em; margin-inline-start: 0.5em" alt="ORCID iD icon"/>
 
 > ***If you want to say hi, I'll be happy to meet you more!*** 😊
 
