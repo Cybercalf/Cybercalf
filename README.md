@@ -9,7 +9,7 @@
 - ⚡ Exposed to many programming languages
 - ✨ ~~Trying not to be addicted to rhythm games~~  
 
-Blog(under construction): [https://cybercalf.github.io/blog/](https://cybercalf.github.io/blog/)
+Blog(under construction): [www.cybercalf.top](https://www.cybercalf.top)
 
 Source of my avatar: [Schnuffel](https://en.wikipedia.org/wiki/Schnuffel)
 
