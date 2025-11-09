@@ -7,7 +7,7 @@
 - 🌱 Currently studying in Sichuan, China  
 - 🤔 Looking for help with Machine Learning & Reinforcement Learning
 - ⚡ Exposed to many programming languages
-- ✨ ~~Trying not to be addicted to rhythm games~~  
+- ✨ ~~Trying not to be addicted to games~~  
 
 Blog(under construction): [www.cybercalf.top](https://www.cybercalf.top)
 
