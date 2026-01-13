@@ -13,6 +13,16 @@ Blog(under construction): [www.cybercalf.top](https://www.cybercalf.top)
 
 Source of my avatar: [Schnuffel](https://en.wikipedia.org/wiki/Schnuffel)
 
+         ／＞     フ
+         |    _  _l
+        ／` ミ＿꒳ノ
+       /         |
+      /   ヽ     ﾉ
+      │    |  |  |
+  ／￣|    |  |  |
+  | (￣ヽ＿_ヽ_)__)
+  ＼二つ
+
 ### 🛠 Tech Stack
 
 <!--![C/C++](https://img.shields.io/badge/-C++-black?logo=cplusplus&logoColor=red)-->
